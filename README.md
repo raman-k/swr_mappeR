@@ -17,3 +17,13 @@ To run the code locally, follow these steps:
 
    ```bash
    git clone <repository_url>
+install.packages(c("leaflet", "leaflet.extras", "shiny"))
+library(shiny)
+runApp("app.R")
+## Usage
+The map displays all the railway stations as colored dots.
+Click on a station to view its details in the table.
+Use the dropdown to select the columns you want to display in the table.
+Use the checkbox to filter stations by division.
+## Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
