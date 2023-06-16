@@ -1,0 +1,420 @@
+SNo,latitude,longitude,state,code,name,address,division
+103,14.82678833,76.21354088,Tamil Nadu,KTY,Kotturu,"Kothur Rd, Tamil Nadu",
+181,14.13792027,76.20256849,Karnataka,CKVD,Chikkandawadi,"Chikkandawadi, Karnataka",
+223,16.878268,75.758306,Karnataka,AYB,Aliyabad,"Bijapur, Karnataka",
+255,12.97518,78.257278,Karnataka,COL,Coromandel,"KGF, Karnataka",
+286,12.907633,77.706014,Karnataka,CRLM,Carmelaram,"Bengaluru, Karnataka",
+287,15.264834,74.047794,Goa,CNR,CHANDAR,"CHANRA (chandor), Goa",
+311,11.934891,76.932807,Karnataka,CMNR,CHAMARAJANAGAR,"Chamarajnagar, Karnataka",
+312,12.29844,76.637861,Karnataka,CMJ,CHAMARAJAPURAM,"Mysore, Karnataka",
+337,14.231154,76.386431,Karnataka,CTA,Chitradurg,"Chitradurga, Karnataka",
+347,13.01094072,77.66297057,Karnataka,CSDR,CHANNASANDRA,"Bengaluru, Karnataka",
+397,15.227107,76.70013,Karnataka,DAJ,DUROJI,"Bellary, Karnataka",
+423,13.183156,77.652122,Karnataka,DJL,Dodajala Lake,"Hosur Road., Karnataka",
+567,15.754344,74.49801,Karnataka,DUR,DESUR,"Desur, Karnataka",
+568,16.571697,74.855323,Karnataka,CNC,CHINCHLI,"Belagavi, Karnataka",
+588,14.515431,75.812314,Karnataka,HRR,HARIHAR,"Harihar, Karnataka",
+615,12.659673,77.203824,Karnataka,CPT,CHANNAPATNA,"Channapatna, Karnataka",
+628,16.802926,75.719362,Karnataka,IMR,IBRAHIMPUR,"Bijapur, Karnataka",
+632,13.216441,77.351193,Karnataka,DBL,DODBELE,"National Highway 4, Karnataka",
+646,15.344532,73.897226,Goa,CSM,CANSAULIM,"Arossim Beach Rd, Goa",
+715,15.08644671,75.3899777,Karnataka,KALS,KALAS HALT,"State Highway 6, Karnataka",
+762,12.401426,76.567029,Karnataka,KJS,Krishnarajasagar,"Mandya District, Karnataka",
+795,16.306774,75.891059,Karnataka,KSAR,KUDALA SANGAM,"NH 13, Karnataka",
+796,13.31619639,77.14811271,Karnataka,KIAT,KYATSANDRA,"Tumkur, Karnataka",
+892,16.3459,75.9005,Karnataka,LMT,ALMATTI,"Bijapur, Karnataka",
+958,15.672447,75.610219,Karnataka,MLP,MALLAPUR,"State Highway 30, Karnataka",
+963,14.284214,76.081381,Karnataka,MYK,MAYAKONDA,"State Highway 47, Karnataka",
+1034,16.620372,75.746926,Karnataka,MVD,MULVAD,"Bijapur, Karnataka",
+1035,13.24514195,77.27312551,Karnataka,NDV,NIDVANDA,"NH 207, Karnataka",
+1052,13.384142,77.712486,Karnataka,NDY,Nandi Halt,"Nandi, Karnataka",
+1114,12.977595,77.568083,Karnataka,SBC,BANGALORE CITY JN,"Bengaluru, Karnataka",
+1116,16.069516,75.695659,Karnataka,GED,GULEDAGUDDA RD,"SH 44, Karnataka",
+1117,17.118384,75.859907,Karnataka,NBL,NIMBAL,"Bijapur, Karnataka",
+1151,12.95409,78.259747,Karnataka,OGM,Oorgaum,"KGF, Karnataka",
+1155,15.03195,76.85271,Andhra Pradesh,OBM,Obalapuram,"Bellary-Hiriyur Rd, Andhra Pradesh",
+1196,12.5019534,76.75208323,Karnataka,BDRL,BYADARAHALLI,"State Highway 17, Karnataka",
+1197,12.51062093,76.82957502,Karnataka,Y,YELIYUR,"Bangalore-Mysore Rd, Karnataka",
+1263,14.04849031,75.45828601,Karnataka,HNHL,Harnahalli,"Harnahalli, Karnataka",
+1303,15.308524,76.335537,Karnataka,MRB,MUNIRABAD,"Munirabad, Karnataka",
+1313,12.73127246,75.55761503,Karnataka,SBHR,Subrahmanya Road,"Nettana Railway Station, Karnataka",
+1351,12.514891,78.027508,Tamil Nadu,RYC,Rayakkottai,"Hosur- Dharmapuri Highway, Tamil Nadu",
+1386,14.35894762,75.99878145,Karnataka,HNH,HANUMANAHALLI,"Hiretogaleri, Karnataka",
+1387,13.270203,76.760983,Karnataka,SPGR,SAMPIGE ROAD,"Tumkur, Karnataka",
+1393,15.203137,76.663924,Karnataka,TNGL,TORANAGALLU,"Toranagallu, Karnataka",
+1394,15.43003605,75.31936155,Karnataka,SVHE,SISVINHALLI,"Dharwad, Karnataka",
+1418,13.647065,75.939298,Karnataka,SPV,Sivapur,"Bangalore Honavar Rd, Karnataka",
+1419,14.142728,75.154712,Karnataka,SRF,Sagar Jambagaru,"Sagar, Karnataka",
+1430,15.891068,74.593121,Karnataka,SXB,SAMBRE,"Belagavi, Karnataka",
+1448,17.393191,75.975729,Maharashtra,TVL,TADWAL,"Mundhewadi, Maharashtra",
+1463,13.86327375,76.13323312,Karnataka,HSD,HOSDURGA ROAD,"Nilagiri Rd, Karnataka",
+1470,15.236109,76.490876,Karnataka,PKL,PAPINAYAKNAHALI,"Bellary, Karnataka",
+1504,13.166876,77.606186,Karnataka,TLS,Bettahalsoor,"Bengaluru, Karnataka",
+1527,13.264571,76.7114857,Karnataka,AMSA,AMMASANDRA,"Tumkur, Karnataka",
+1536,13.32831,77.73159,Karnataka,VTE,Venkatagiri Kote Halt,"National Highway 7, Karnataka",
+1545,12.273762,76.635315,Karnataka,AP,ASHOKAPURAM,"Mysore, Karnataka",
+1600,12.714668,75.443085,Karnataka,YDM,Yedamangala,"Panja Kadaba Rd, Karnataka",
+1639,15.41179212,75.09820837,Karnataka,AGL,AMARGOL,"Hubli, Karnataka",
+1656,12.512857,76.391729,Karnataka,ARNH,Arjunahalli,"Arjunahalli, Karnataka",
+1670,12.0755655,76.74904447,Karnataka,BDV,BADANAVALU,"Nanjungudu-Chamarajanagara Rd, Karnataka",
+1703,13.073539,77.506341,Karnataka,BAW,CHIK BANAVAR,"Bengaluru, Karnataka",
+1706,14.073324,75.209164,Karnataka,ANF,Anandapuram,"Anandapuram, Karnataka",
+1720,15.389334,73.849937,Goa,DBM,DABOLIM,"Mormugao, Goa",
+1760,13.299092,77.726679,Karnataka,AVT,Avati,"Avati, Karnataka",
+1772,14.250321,76.566376,Karnataka,BAHI,Balenahalli,"State Highway 48, Karnataka",
+1816,11.990316,76.861228,Karnataka,BDGP,BADANAGUPPE,"SH 57, Karnataka",
+1823,15.8492433,74.5095639,Karnataka,BGM,BELGAUM,"Belgaum, Karnataka",
+1826,12.9786413,78.24197815,Karnataka,BEML,BEML Nagar,"KGF, Karnataka",
+1829,16.8310603,75.7400012,Karnataka,BJP,BIJAPUR,"Bijapur, Karnataka",
+1848,13.14380344,76.22935519,Karnataka,BGPA,Bageshapura,"Bageshapura, Karnataka",
+1897,13.502322,76.023514,Karnataka,BLKR,BALLEKERE HALT,"National Highway 206, Karnataka",
+1900,12.38569868,76.58870326,Karnataka,BLGA,Belagula,"Belagula, Karnataka",
+1914,14.243859,76.554391,Karnataka,BNHL,Bellenahalli,"Chitradurga, Karnataka",
+1966,13.00148,77.6184701,Karnataka,BNCE,BANGALORE EAST,"Bengaluru, Karnataka",
+2065,13.265332,76.659317,Karnataka,BSN,BANASANDRA,"SH19, Karnataka",
+2069,16.47986853,75.82814753,Karnataka,BSRX,BAGEVADI RD,"Bagevadi, Karnataka",
+2173,12.98251226,75.99049337,Karnataka,ALUR,Alur Halt,"Hassan - Alur Rd, Karnataka",
+2191,15.44947863,74.57136413,Karnataka,DEV,DEVARAYI,"State Highway 34, Karnataka",
+2280,13.08842214,76.2042468,Karnataka,DUH,Dudda,"Dudda, Karnataka",
+2283,12.90404781,75.73412168,Karnataka,DOGL,Donigal,"Mangalore - Bangalore Hwy, Karnataka",
+2318,15.31333714,74.31403358,Karnataka,DWF,DUDH SAGAR WATER FALLS,"National Highway 4A, Karnataka",
+2511,15.54311556,74.47936742,Karnataka,GNJ,GUNJI,"Belagavi, Karnataka",
+2513,16.2407189,74.75982295,Karnataka,GPB,GHATPRABHA,"Ghatprabha, Karnataka",
+2545,15.286807,76.38578,Karnataka,HPT,HOSPET JN,"Hospet, Karnataka",
+2549,15.81959,75.646461,Karnataka,HLAR,HOLE ALUR,"Badami Rd, Karnataka",
+2560,12.565639,76.979837,Karnataka,HNK,HANAKERE,"Mandya, Karnataka",
+2573,12.297418,78.072073,Tamil Nadu,PCV,Palakkodu,"Dharmapuri, Tamil Nadu",
+2574,12.57045962,76.36181943,Karnataka,HAH,Hosa Agrahara,"Hosa Agrahara, Karnataka",
+2576,17.211289,75.919616,Karnataka,IDR,INDI ROAD,"Bijapur, Karnataka",
+2597,15.335637,76.291469,Karnataka,HTNL,HITNAL,"National Highway 63, Karnataka",
+2598,12.8482855,77.41841687,Karnataka,HJL,HEJJALA,"Bengaluru, Karnataka",
+2600,14.7943,75.410686,Karnataka,HVR,HAVERI,"Haveri, Karnataka",
+2602,13.341342,77.048296,Karnataka,HEI,HEGGERE HALT,"Heggere, Karnataka",
+2603,13.28157594,77.18876395,Karnataka,HHL,HIREHALI,"NH 4, Karnataka",
+2611,14.222474,76.336804,Karnataka,HLV,Haliyuru,"State Highway 48, Karnataka",
+2617,12.479685,76.394664,Karnataka,HPA,Hampapura,"Hampapura, Karnataka",
+2625,15.70792852,74.5181454,Karnataka,IDJ,IDALHOND,"Garlgunj - Idalhond Rd, Karnataka",
+2635,15.845019,75.650291,Karnataka,JAK,Jakanur,"Badami Rd, Karnataka",
+2710,16.530215,75.811482,Karnataka,KDGI,KUDGI,"NH 13, Karnataka",
+2717,15.459597,74.875061,Karnataka,KBI,KAMBRGANVI,"State Highway 34, Karnataka",
+2723,15.251727,76.43343,Karnataka,KGW,KARIGANURU,"Bellary, Karnataka",
+2724,15.353868,76.143959,Karnataka,KBL,KOPPAL,"Koppal, Karnataka",
+2725,12.918047,77.48431,Karnataka,KGI,KENGERI,"Bengaluru, Karnataka",
+2727,15.447817,75.719041,Karnataka,KGX,KANGINHAL,"Gadag, Karnataka",
+2734,14.59167,76.68023,Karnataka,BOMN,Bommagundanakere,"Bellary-Hiriyur Rd, Karnataka",
+2756,15.21516,76.763569,Karnataka,KDN,KUDATINI,"Bellary, Karnataka",
+2758,14.851426,75.407636,Karnataka,KJG,KARAJGI,"haveri, Karnataka",
+2771,12.758926,77.335544,Karnataka,KHLL,KETOHALLI,"Bengaluru, Karnataka",
+2804,15.293341,74.188843,Goa,KM,KALEEM,"Kalay Railway Station, Goa",
+2805,15.63793441,74.49975681,Karnataka,KNP,KHANAPUR,"Khanapur, Karnataka",
+2828,15.258352,75.250168,Karnataka,KNO,KUNDGOL,"Kundgol, Karnataka",
+2836,15.392095,75.233643,Karnataka,KUG,KUSUGALI,"National Highway 63, Karnataka",
+2884,15.442249,74.967948,Karnataka,KRKP,KYARKOP,"Dharwad, Karnataka",
+2885,16.62608,74.858687,Karnataka,KUD,KUDACHI,"Kudchi, Karnataka",
+2914,12.033304,76.799272,Karnataka,KVE,KAVALANDE,"SH 57, Karnataka",
+2964,15.424244,74.738116,Karnataka,LWR,ALNAVAR JN,"Alnavar, Karnataka",
+3047,13.7283327,76.0097415,Karnataka,AJP,AJJAMPUR,"Ajjampur, Karnataka",
+3059,12.338554,76.642542,Karnataka,MNGT,MYSORE NEW GOOD,"Mysore, Karnataka",
+3078,16.971395,75.822432,Karnataka,MNL,MINCHNAL,"Bijapur, Karnataka",
+3086,13.335173,77.015018,Karnataka,MLSA,MALLASANDRA,"NH 206, Karnataka",
+3136,12.529176,76.897256,Karnataka,MYA,MANDYA,"Mandya, Karnataka",
+3156,13.001289,77.563207,Karnataka,MWM,MALLESWARAM,"Bengaluru, Karnataka",
+3169,15.432164,75.430851,Karnataka,NGR,ANNIGERI,"Dist. Dharwad, Karnataka",
+3189,12.816193,76.201872,Karnataka,MVC,Mavinkere,"Mavinkere, Karnataka",
+3190,12.380243,76.651081,Karnataka,NHY,NAGANAHALLI,"Mysore District, Karnataka",
+3252,12.941162,77.520696,Karnataka,NYH,NAYANDAHALLI,"Bengaluru, Karnataka",
+3275,17.32237038,75.98468189,Karnataka,PDNR,PADNUR,"Shegao to Alagi Rd, Karnataka",
+3284,13.30165468,76.85587169,Karnataka,NTR,NITTUR,"NH 206, Karnataka",
+3294,12.12211,76.68443,Karnataka,NTW,NANJANGUD TOWN,"Nanjangudu, Karnataka",
+3307,12.62489,76.377598,Karnataka,AKK,Akkihebbalu,"Mandya District, Karnataka",
+3403,16.140169,74.695447,Karnataka,PRKH,PARKANHATTI,"Parakanhatti, Karnataka",
+3405,13.26737749,76.57369957,Karnataka,RDI,KARDI,"Karadi Cross, Karnataka",
+3450,15.334036,74.24423,Goa,QLM,KULEM,"South Goa Distt., Goa",
+3462,14.705815,76.856828,Andhra Pradesh,RDG,Rayadurg,"Rayadurg, Andhra Pradesh",
+3486,14.625461,75.635054,Karnataka,RNR,RANIBENNUR,"Ranebennur, Karnataka",
+3487,13.591101,75.974749,Karnataka,RRB,BIRUR JN,"Birur, Karnataka",
+3533,16.720293,74.752769,Karnataka,SED,SHEDBAL,"Belagavi, Karnataka",
+3590,17.45892,75.974841,Karnataka,SLGE,SULERJAVALGE,"NH 13, Karnataka",
+3597,14.226683,76.108388,Karnataka,SLU,SASALU,"State Highway 47, Karnataka",
+3603,15.421499,75.87207,Karnataka,SOQ,SOMPUR ROAD,"Sompur, Karnataka",
+3606,15.370791,73.867713,Goa,SKVL,SANKVAL,"Sancoale, Goa",
+3608,15.43749405,75.59625386,Goa,SJDA,SANJUJE DA AREY,"CURTORIM, Goa",
+3619,13.927613,75.592671,Karnataka,SME,Shimoga,"State Highway 57, Karnataka",
+3688,15.264064,74.10866,Goa,SVM,SANVERDAM CHUCH,"Curchorem, Goa",
+3689,16.00172811,74.67814299,Karnataka,SUL,SULADHAL,"Belagavi, Karnataka",
+3727,14.399208,75.964562,Karnataka,THN,TOLAHUNSE,"Tholahunase, Karnataka",
+3755,13.256152,76.475987,Karnataka,TTR,TIPTUR,"Tiptur, Karnataka",
+3756,13.333033,77.102439,Karnataka,TK,TUMKUR,"Tumkur, Karnataka",
+3768,14.214011,74.914093,Karnataka,TLGP,Talguppa,"Talaguppa, Karnataka",
+3773,13.710886,75.812209,Karnataka,TKE,Tarikere Junction,"Tarikere, Karnataka",
+3820,12.168831,76.678489,Karnataka,TXM,TANDAVAPURA,"Thandavapura, Karnataka",
+3827,11.931538,78.070201,Tamil Nadu,TPP,Toppur,"Dharmapuri, Tamil Nadu",
+3835,16.669705,74.822126,Karnataka,UGR,UGAR KHURD,"Belgaum, Karnataka",
+3850,13.667161,75.934385,Karnataka,KRNH,Karanahalli,"Bangalore Honavar Rd, Karnataka",
+3861,15.377159,75.124255,Karnataka,UNK,UNKAL,"Hubli, Karnataka",
+3889,13.439282,76.08846,Karnataka,VNR,DEVANUR,"National Highway 206, Karnataka",
+3907,12.823403,75.622206,Karnataka,YDK,Yedekumeri,"Yedukumeri Station, Karnataka",
+3911,17.504915,75.99559,Karnataka,AHD,AHERWADI,"Sholapur, Karnataka",
+3916,15.958918,75.6767002,Karnataka,BDM,BADAMI,"Bagalkot, Karnataka",
+3917,16.1787931,75.7002383,Karnataka,BGK,BAGALKOT,"Bagalkot, Karnataka",
+3928,15.145135,76.921995,Karnataka,BAY,BELLARY JN,"Bellary, Karnataka",
+3966,15.38694828,76.036416,Karnataka,BNP,BHANAPUR,"National Highway 63, Karnataka",
+3977,13.999309,75.314466,Karnataka,ARU,Arasalu,"Arasalu, Karnataka",
+3978,11.984107,78.152895,Tamil Nadu,MPC,Muttampatti,"Dharmapuri, Tamil Nadu",
+3995,12.9936735,77.5993269,Karnataka,BNC,BANGALORE CANT,"Bengaluru, Karnataka",
+4032,14.699723,75.49009547,Karnataka,BYD,BYADGI,"National Highway 4, Karnataka",
+4035,15.348226,76.247613,Karnataka,GIN,GINIGERA,"Ginigera, Karnataka",
+4036,13.39569882,76.14005375,Karnataka,BVR,BANAVAR,"National Highway 234, Karnataka",
+4038,15.440386,75.004552,Karnataka,DWR,DHARWAR,"Dharwad, Karnataka",
+4044,12.433086,76.42625,Karnataka,DOY,Dornahalli,"Dornahalli, Karnataka",
+4047,12.4454105,76.3886269,Karnataka,KRNR,Krishnarajanagara,"Krishnarajanagara, Karnataka",
+4056,15.219036,76.599178,Karnataka,GNR,GADIGANURU,"Bellary, Karnataka",
+4066,12.935329,77.511242,Karnataka,GNB,JNANA BHARTI HALT,"Mysore Road Bengaluru, Karnataka",
+4104,14.03815796,76.13005447,Karnataka,HLK,HOLALKERE,"National Highway 13, Karnataka",
+4107,12.025334,76.809835,Karnataka,KRNU,KONANUR,"Nanjungudu-Chamarajanagara Rd, Karnataka",
+4120,13.22684857,76.24952204,Karnataka,HHT,Habanghata,"Habanghata, Karnataka",
+4121,16.236489,75.796092,Karnataka,KLM,KADLIMATTI,"State Highway 20, Karnataka",
+4151,17.05336,75.821206,Karnataka,KTK,KYATANEAKERI RD,"Bijapur, Karnataka",
+4187,14.709669,76.745727,Karnataka,MOMU,Molakalmuru,"State Highway 19, Karnataka",
+4201,13.2391442,77.30474036,Karnataka,MDLL,MUDDALINGAHALLI,"NH 207, Karnataka",
+4221,12.918968,78.263789,Karnataka,MKM,Marikuppam,"Kolar Gold Fields, Karnataka",
+4240,13.661093,75.987163,Karnataka,NVF,NAGAVANGALA,"Melanahalli Rd, Karnataka",
+4253,12.07552,76.7495,Karnataka,NBU,NARASAMBUDHI,"Nanjangud Taluk, Karnataka",
+4254,15.42455437,74.62135307,Karnataka,NAG,NAGARGALI,"State Highway 34, Karnataka",
+4303,12.64422829,77.14191788,Karnataka,SET,SETTIHALLY,"Bangalore-Mysore Rd, Karnataka",
+4352,14.914015,76.868856,Andhra Pradesh,SLM,Somalapuram,"Anantapur Rd, Andhra Pradesh",
+4359,13.943037,75.583174,Karnataka,SMET,Shimoga Town,"Shimoga, Karnataka",
+4376,15.350302,75.148104,Karnataka,UBL,HUBLI JN,"Hubli, Karnataka",
+4378,13.253132,76.615439,Karnataka,ARGP,ARALAGUPPE,"State Highway 74, Karnataka",
+4395,13.246834,77.704631,Karnataka,DHL,Devanhalli,"Near Bellary Road Bangalore Rural Dt., Karnataka",
+4398,14.450854,76.675366,Karnataka,THKU,Thallak,"Bellary-Hiriyur Rd, Karnataka",
+4400,15.905354,75.648078,Karnataka,YGA,Yerra Goppa Halt,"Yerra Goppa, Karnataka",
+4409,15.03425359,75.40940127,Karnataka,YLG,YALVIGI,"Yalvigi, Karnataka",
+4410,13.28342017,76.34728405,Karnataka,ADHL,ADIHALLI,"National Highway 206, Karnataka",
+4451,16.30777084,74.75360003,Karnataka,BGWD,BAGEWADI,"Gokak TQ, Karnataka",
+4453,12.8004252,77.3902984,Karnataka,BID,BIDADI,"Bengaluru District, Karnataka",
+4478,14.315154,76.660017,Karnataka,CHKE,Challakere,"Chitradurga, Karnataka",
+4482,13.194258,77.383393,Karnataka,BNKH,BHAIRANAYAKANAH,"State Highway 74, Karnataka",
+4487,15.40662732,75.94180892,Karnataka,BNA,BANNI KOPPA,"National Highway 63, Karnataka",
+4512,16.45187366,75.84589116,Karnataka,ANGR,ANGADGERI HALT,"Angadgeri, Karnataka",
+4521,16.36904776,74.76949433,Karnataka,CKR,CHIKODI ROAD,"Belagavi, Karnataka",
+4523,13.907468,76.134971,Karnataka,ABGT,ARBAGATTA HALT,"State Highway 47, Karnataka",
+4532,14.13954873,76.24556343,Karnataka,AMC,Amritapura,"State Highway 48, Karnataka",
+4538,12.084594,76.732445,Karnataka,CGHD,CHINNADAGUDI,"Nanjungudu-Chamarajanagara Rd, Karnataka",
+4540,14.17383027,76.25933508,Karnataka,BTGH,Bettadnagenhali,"Amritapura, Karnataka",
+4543,12.7379,76.282814,Karnataka,ANC,Annechakanahali,"Annechakanahali, Karnataka",
+4551,16.384407,75.882249,Karnataka,BENL,BENL,"Dam Inspection Rd, Karnataka",
+4553,12.720476,75.508955,Karnataka,BAJE,Bajakare Halt,"Panja Kadaba Rd, Karnataka",
+4560,13.314425,76.2520848,Karnataka,ASK,ARSIKERE JN,"Arasikere, Karnataka",
+4590,13.8424287,75.702832,Karnataka,BDVT,Bhadravati,"Bhadravati, Karnataka",
+4615,12.878545,75.034456,Karnataka,BNTL,Bantawala,"Bantwal, Karnataka",
+4616,12.667132,76.385196,Karnataka,BRBL,Birahalli,"Birahalli, Karnataka",
+4663,14.66779,75.576141,Karnataka,DAD,DEVARGUDDA,"Hanumanamatti, Karnataka",
+4666,13.23318016,77.24915543,Karnataka,DBS,DOBBSPET,"Dobbasapete, Karnataka",
+4688,15.437048,75.642481,Karnataka,GDG,GADAG JN,"Gadag, Karnataka",
+4690,14.467834,75.92229,Karnataka,DVG,DAVANGERE,"Davanagere, Karnataka",
+4693,13.552501,76.008846,Karnataka,DRU,KADUR,"Kadur, Karnataka",
+4699,12.126595,78.154742,Tamil Nadu,DPJ,Dharmapuri,"Dharmapuri, Tamil Nadu",
+4715,16.205164,74.738839,Karnataka,GKK,GOKAK ROAD,"Belagavi, Karnataka",
+4719,13.148289,77.413983,Karnataka,GHL,GOLHALLI,"State Highway 74, Karnataka",
+4747,12.786495,76.24646,Karnataka,HLN,Hole Narsipur,"Hassan District, Karnataka",
+4749,15.520136,75.576122,Karnataka,HBL,HOMBAL,"Belavaniki, Karnataka",
+4764,15.42206,75.283878,Karnataka,HBS,HEBSUR,"Hebsur, Karnataka",
+4771,13.003182,76.117359,Karnataka,HAS,Hassan Junction,"Hassan, Karnataka",
+4774,16.28426707,75.83866139,Karnataka,JRKT,JADARAMA KUNTE,"National Highway 13, Karnataka",
+4805,12.478702,76.716049,Karnataka,CGKP,CHANDAGIRIKOPAL,"State Highway 7, Karnataka",
+4810,12.717606,77.822839,Tamil Nadu,HSRA,Hosur,"Hosur, Tamil Nadu",
+4822,12.936251,78.262564,Karnataka,CHU,Champion,"KGF, Karnataka",
+4831,15.397879,74.334484,Karnataka,CLR,CASTLE ROCK,"National Highway 4A, Karnataka",
+4832,12.190407,76.663729,Karnataka,KDO,KADAKOLA,"Mysore District, Karnataka",
+4845,12.718252,75.476631,Karnataka,KDBA,Kodimbala Halt,"Panja Kadaba Rd, Karnataka",
+4891,12.6162,77.865703,Tamil Nadu,KMLM,Kelamangalam,"Krishnagiri, Tamil Nadu",
+4922,15.870282,75.627712,Karnataka,LKY,LAKHMAPUR,"Muttalageri, Karnataka",
+4927,17.27957376,75.97170146,Maharashtra,LHN,LACHYAN,"Solapur, Maharashtra",
+4937,15.434667,75.531958,Karnataka,LKT,HULKOTI,"National Highway 63, Karnataka",
+4939,14.88804207,75.40095654,Karnataka,KVS,KALSUR,"haveri, Karnataka",
+4954,12.604742,77.049522,Karnataka,MAD,MADDUR,"Mandya District, Karnataka",
+4960,11.831114,78.027912,Tamil Nadu,KVLR,Karuvalli,"Salem district, Tamil Nadu",
+4992,12.730158,76.378905,Karnataka,MGF,Mandagere,"Mandya District, Karnataka",
+5012,12.318946,76.646013,Karnataka,MYS,MYSORE JN,"JLB Road Mysore, Karnataka",
+5014,13.804192,75.735905,Karnataka,MSS,Masarahalli,"Shimoga, Karnataka",
+5017,12.388944,78.017329,Tamil Nadu,MZU,Marandahalli,"Dharmapuri, Tamil Nadu",
+5040,12.463018,76.681387,Karnataka,PANP,PANDAVAPURA,"SH 19 Junction Mandya District, Karnataka",
+5041,15.415518,75.055491,Karnataka,NVU,NAVALUR,"Dharwad - Hubli Hwy, Karnataka",
+5044,12.74638568,75.29242739,Karnataka,NRJ,Narimogaru,"Puttur subrahmanya state highway 100, Karnataka",
+5083,16.093145,74.672174,Karnataka,PCH,PACHHAPUR,"Rustumpur, Karnataka",
+5102,13.95014469,76.12545422,Karnataka,RGI,RAMGIRI,"Shivani Rd, Karnataka",
+5103,16.48337451,74.80682566,Karnataka,RBG,RAYBAG,"Belagavi, Karnataka",
+5110,12.720096,77.283451,Karnataka,RMGM,RAMANAGARAM,"Ramanagara, Karnataka",
+5131,16.31992,75.865598,Karnataka,SII,SITIMANI,"Dam Inspection Rd, Karnataka",
+5139,15.912563,74.641724,Karnataka,SBH,SULEBHAVI,"Belagavi, Karnataka",
+5145,12.945368,75.778745,Karnataka,SKLR,Sakleshpur,"Sakleshpur, Karnataka",
+5146,13.81113967,76.05823629,Karnataka,SHV,SHIVANI,"Shivani Rd, Karnataka",
+5149,12.4247,76.678033,Karnataka,S,SHRIRANGAPATNA,"Mandya District, Karnataka",
+5169,15.206786,75.295781,Karnataka,SNH,SAUNSHI,"Saunshi, Karnataka",
+5172,12.140253,76.675521,Karnataka,SJPM,SUJATA PURAM HALT,"Nanjangudu, Karnataka",
+5174,12.743443,76.355604,Karnataka,SRVN,Sravanur,"Sravanur, Karnataka",
+5182,15.766716,75.632594,Karnataka,SMKT,Somankatti,"State Highway 30, Karnataka",
+5189,12.7683965,75.2045015,Karnataka,KBPR,Kabakaputtur,"Puttur, Karnataka",
+5202,15.449132,74.404471,Karnataka,TGT,TINAI GHAT,"National Highway 4A, Karnataka",
+5206,14.96170893,75.40631885,Karnataka,SVNR,SAVANUR,"State Highway 6, Karnataka",
+5207,12.4233817,76.47887666,Karnataka,STE,Sagarkatte,"Sagarkatte, Karnataka",
+5212,12.039872,78.118844,Tamil Nadu,SZV,Sivadi,"Dharmapuri, Tamil Nadu",
+5232,15.41485364,74.66287512,Karnataka,TVG,TAVARGATTI,"State Highway 34, Karnataka",
+5262,15.397241,73.813425,Goa,VSG,VASCO DA GAMA,"Mormugao, Goa",
+5265,16.77781197,74.69628991,Maharashtra,VJR,VIJAYANAGAR,"Miraj Road, Maharashtra",
+5286,17.175077,75.869711,Karnataka,CHRG,CHORGI,"Bijapur, Karnataka",
+5322,15.150286,76.894505,Karnataka,BYC,BELLARY CANT,"Bellary, Karnataka",
+5382,15.434833,75.799259,Karnataka,RLP,HARLAPUR,"National Highway 63, Karnataka",
+5389,15.450273,74.496982,Karnataka,LD,LONDA JN,"Londa, Karnataka",
+5394,12.81318,77.710974,Karnataka,HLE,Heelalige,"Chandapura -Dommasandra Road Bengaluru, Karnataka",
+5396,11.79555484,78.0260573,Tamil Nadu,SMDT,Semmandappatti,"Salem, Tamil Nadu",
+5402,12.717207,75.365526,Karnataka,KNYR,Kaniuru Halt,"Kaniyoor, Karnataka",
+5424,14.56140311,75.73529039,Karnataka,CLI,CHALGERI,"Chalageri, Karnataka",
+5426,13.091395,77.490385,Karnataka,SDVL,SOLDEVANAHALLI,"Bengaluru, Karnataka",
+5435,12.421124,76.497258,Karnataka,KLYH,Kallur Yedahli,"Kallur Yedahli, Karnataka",
+5466,14.33050869,76.03354288,Karnataka,KAG,KODAGANUR,"State Highway 47, Karnataka",
+5574,15.46241,74.915401,Karnataka,MGD,MUGAD,"State Highway 34, Karnataka",
+5625,15.12492173,75.35960448,Karnataka,GDI,GUDGERI,"Gudgeri, Karnataka",
+5710,16.416601,75.86371,Karnataka,WDL,WANDAL,"Dam Inspection Rd, Karnataka",
+5731,13.321429,76.939264,Karnataka,GBB,GUBBI,"Gubbi, Karnataka",
+5737,12.723885,77.710727,Karnataka,AEK,Anekal Road,"Karnataka, Karnataka",
+5812,16.679401,75.732815,Karnataka,HOH,HONAGANAHALLI,"National Highway 218, Karnataka",
+6014,15.59262851,75.60251865,Karnataka,BLR,BALGANUR,"Gadag, Karnataka",
+6374,13.4313153,77.7325398,Karnataka,CBP,Chik Ballapur,"Chik Ballapur, Karnataka",
+6438,12.936565,77.706939,Karnataka,BLRR,Belandur Road,"Bengaluru, Karnataka",
+6448,14.126112,76.138705,Karnataka,JRU,CHIKJAJUR JN,"Chikkajajur, Karnataka",
+6452,13.2744989,76.39004939,Karnataka,HVL,HONNAVALLI ROAD,"National Highway 206, Karnataka",
+6453,13.260739,76.454627,Karnataka,SSNH,SREE SARADANAGAR HALT,"Tiptur, Karnataka",
+6501,15.163457,77.178109,Andhra Pradesh,TKBN,TSAKIBANDA,"Rayalaseema Region, Andhra Pradesh",
+6504,13.26560793,76.52306028,Karnataka,BNK,BANASANKARAI HA,"National Highway 206, Karnataka",
+11002,15.27136,74.61622,,AVA,Ambevadi,,UBL
+11003,15.2635,74.6191,,DED,Dandeli,,UBL
+11004,16.15342,75.68903,,NANH,Navanagar(F),,UBL
+11005,16.12279,75.65086,,SIKI,Sulikeri,,UBL
+11006,,,,KKMI,Kerakamatti,,UBL
+11007,16.14321,75.52494,,HESK,Hireshellikeri(H),,UBL
+11008,16.16428,75.46803,,KJDI,Kajjidoni,,UBL
+11009,15.4286,76.44283,,BDGU,Budagumpa,,UBL
+11010,,,,JBGD,Jabbalguda,,UBL
+11011,,,,CKBK,Chikkabenakal,,UBL
+11012,15.43,76.53,,GGVT,Gangavati,,UBL
+11013,,,,SRNM,Sriramnagar(H),,UBL
+11014,14.347,74.894,,SIDG,Siddapur,,UBL
+11015,15.61236,76.66053,,KTGG,Karatagi,,UBL
+11016,15.26302,76.35419,,TBDM,Tungabhadra Dam-H,,UBL
+11017,15.19472,76.3551,,VYS,Vyasanakeri,,UBL
+11018,15.18691,76.38351,,VC,Vyasa Colony,,UBL
+11019,15.16134,76.35524,,MMI,Mariyammanahalli-H,,UBL
+11020,15.11139,76.27278,,HPM,Hampapatanam-H,,UBL
+11021,15.04096,76.19366,,HBI,Hagari Bommanahalli,,UBL
+11022,15.783,74.367,,MVI,Malvi-H,,UBL
+11023,,,,ALAT,Avuludatla-H,,UBL
+11024,14.5692,77.11948,,KYND,Kalyandurga-H,,UBL
+11025,,,,KRYP,Kadiridevarapalli-H,,UBL
+11026,15.12729,76.46181,,RMGD,Ramgad,,UBL
+11027,15.11706,76.44923,,YTG,Yeshwantnagar,,UBL
+11028,14.97217,76.61388,,SMLI,Swamihalli,,UBL
+11029,12.94464,75.89461,,BLLT,Balupete,,MYS
+11030,12.83383,75.70284,,KGVL,Kadagaravalli,,MYS
+11031,,,,SVGL,Shrivagulu,,MYS
+11032,14.00842,76.28774,,NRF,Neralakatte,,MYS
+11033,11.95614,76.90201,,MRLA,Mariyala Gangawadi Halt,,MYS
+11034,12.07552,76.7495,,NBU,Narasambudhi Halt,,MYS
+11035,,,,KRNH,Kornahalli Halt,,MYS
+11036,14.01273,75.50662,,KGV,Konagavalli Halt,,MYS
+11037,14.05889,75.38999,,KSMJ,Kumsi,,MYS
+11038,14.01726,75.28458,,KCLA,Kenchanalu Halt,,MYS
+11039,13.95479,75.35761,,AEX,Adderi Halt,,MYS
+11040,14.1667,75.0333,,SRF,Sagara Jambagaru,,MYS
+11041,,,,BLHI,Bisilehalli Halt,,MYS
+11042,13.43176,75.92455,,SHYP,Shakrayapatna,,MYS
+11043,13.32841,75.90965,,KNVH,Kanivehalli Halt,,MYS
+11044,13.313,75.737,,CMGR,Chikmagalur,,MYS
+11045,12.89751,77.61346,,BBNH,Bedara Bommanahalli,,MYS
+11046,14.46355,76.40749,,BEHI,Bennehalli,,MYS
+11047,14.78826,75.9856,,HPHI,Harpanahalli,,MYS
+11048,,,,TLGI,Teligi,,MYS
+11049,14.49822,75.85409,,AVC,Amravathi Colony,,MYS
+11050,13.10012,77.59634,,YNK,Yelahanka,,SBC
+11051,13.17391,77.55891,,RNN,Rajankunti,,SBC
+11052,13.2973,77.5384,,DBU,Doddaballapur,,SBC
+11053,13.34606,77.54112,,ORH,Oddarahalli,,SBC
+11054,13.40978,77.50984,,MKL,Makalidurga,,SBC
+11055,13.5042,77.51487,,TDV,Thondebhavi,,SBC
+11056,13.56035,77.51272,,SMWA,Someshwara,,SBC
+11057,13.61345,77.51314,,GBD,Gauribidanur,,SBC
+11058,13.66655,77.50948,,VWA,Viduraswatha,,SBC
+11059,13.72323,77.51195,,DPE,Devarapalli,,SBC
+11060,13.8226,77.4993,,HUP,Hindupur,,SBC
+11061,13.89179,77.54167,,MLU,Malugur,,SBC
+11062,13.99759,77.58286,,CPL,Chakarapalli,,SBC
+11063,14.02449,77.57569,,REPI,Rangepalli,,SBC
+11064,14.10007,77.59458,,PKD,Penukonda,,SBC
+11065,14.196,77.62848,,MKJ,Makkajipalli,,SBC
+11066,14.32184,77.64346,,NGM,Nagasamudram,,SBC
+11067,14.42261,77.71555,,DMM,Dharmavaram Jn,,SBC
+11068,12.95753,77.53867,,KNDV,Krishnadevaraya Halt,,SBC
+11069,13.02542,77.54382,,YPR,Yesvantpur,,SBC
+11070,13.11219,77.3925,,NMGA,Nelamangala,,SBC
+11071,11.87216,78.2318,,SOLR,Solur,,SBC
+11072,12.87141,77.55649,,TASA,Thippasandra,,SBC
+11073,13.0234,77.02,,KIGL,Kunigal,,SBC
+11074,12.98319,76.8711,,YY,Yediyuru,,SBC
+11075,12.96829,76.73313,,BGNR,B G Nagar,,SBC
+11076,12.9471,76.58053,,HISE,Hirisave,,SBC
+11077,12.87049,76.48112,,SBGA,Shravanabelagola,,SBC
+11078,12.9012,76.3895,,CNPA,Chennarayapatna,,SBC
+11079,12.90686,76.29288,,DSVS,D Samudravalli,,SBC
+11080,12.98424,76.21626,,SIGA,Shantigrama,,SBC
+11081,12.99121,77.65171,,BYPL,Baiyyappanahalli,,SBC
+11082,12.77753,76.64138,,MNKH,Maranayakanahalli,,SBC
+11083,12.5594,77.91121,,PRNT,Periyanagathunai,,SBC
+11084,11.74348,78.04762,,OML,Omalur,,SBC
+11085,13.04554,77.56843,,LOGH,Lottegollahalli ,,SBC
+11086,13.04155,77.59952,,HEB,Hebbal,,SBC
+11087,13.00584,77.62813,,BAND,Banaswadi,,SBC
+11088,12.9988,77.6409,,SMVB,Sir M Visvesvaraya Terminal  Bengaluru,,SBC
+11089,13.05696,77.57149,,KDGH,Kodigehalli,,SBC
+11090,13.16081,77.60872,,TLS,Bettahalsoor,,SBC
+11091,13.18051,77.64283,,DJL,Dodjala,,SBC
+11092,13.20574,77.70404,,KIAD,Kempegowda International Airport Rly Stn,,SBC
+11093,13.23,77.7,,DHL,Devanahalli,,SBC
+11094,13.29891,77.72629,,AVT,Avatihalli,,SBC
+11095,13.32774,77.73415,,VTE,Venkatagirikote,,SBC
+11096,,,,NDY,Nandi,,SBC
+11097,13.4312,77.7326,,CBP,Chikballapur,,SBC
+11098,13.41433,77.80899,,GDH,Gidnahalli,,SBC
+11099,13.392,77.865,,IDT,Sidlaghatta,,SBC
+11100,13.40026,77.94691,,HUN,Hongashenhalli,,SBC
+11101,13.4015,78.0553,,CMY,Chintamani,,SBC
+11102,13.3743,78.13648,,DTT,Dodnata,,SBC
+11103,13.43943,78.01511,,SVS,Srinivasapura,,SBC
+11104,13.27524,78.1718,,DNU,Dalasanur,,SBC
+11105,13.23025,78.14365,,TUHD,Thurandahalli,,SBC
+11106,,,,GJT,Janaghatta,,SBC
+11107,13.12845,78.13338,,KQZ,Kolar,,SBC
+11108,,,,HUD,Hudakola,,SBC
+11109,12.98569,78.17864,,BWT,Bangarapet,,SBC
+11110,14.12885,77.69605,,NRYP,Narayanapuram,,SBC
+11111,14.16456,77.81207,,SSPN,Sri Sathya Sai Prasanthinilayam,,SBC
+11112,14.18708,77.77132,,KTCR,Kotacheruvu ,,SBC
+11113,14.31124,77.74552,,BSPL,Basampalle,,SBC
+11114,12.98123,78.22618,,CNKH,Chinnakote,,SBC
+11115,13.00056,77.67545,,KJM,Krishnarajapuram,,SBC
+11116,12.99592,77.71928,,HDI,Hoodi,,SBC
+11117,12.9964,77.76142,,WFD,Whitefield,,SBC
+11118,12.98515,77.8313,,DKN,Devangonthi,,SBC
+11119,12.99285,77.93874,,MLO,Malur,,SBC
+11120,12.99553,78.01749,,BFW,Byatrayanahalli,,SBC
+11121,12.98458,78.07111,,TCL,Tyakal,,SBC
+11122,12.95453,77.70271,,MZV,Maaralahalli,,SBC
+11123,15.14052,76.29572,,VRPD,Varadapura,,SBC
+11124,12.8805,78.20056,,KSMJ,Kamasamudram,,SBC
+11125,12.84225,78.24986,,BSM,Bisanattam,,SBC
+11126,12.80348,78.27477,,GDP,Gudupulli,,SBC
+11127,12.74093,78.34422,,KPN,Kuppam,,SBC
+11128,12.66255,78.40676,,MAR,Mulanur,,SBC
+11129,12.59417,78.46352,,PU,Patchur,,SBC
+11130,12.57158,78.53712,,SKPT,Somanayakanpatti,,SBC
+11131,12.60379,78.63504,,JTJ,Jolarpettai,,SBC

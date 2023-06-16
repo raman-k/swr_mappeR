@@ -1,0 +1,67 @@
+library(leaflet)
+library(leaflet.extras)
+library(shiny)
+
+swr.stations <- na.omit(read.csv("swr_stations.csv", stringsAsFactors = TRUE))
+
+# UI function for the Shiny app
+ui <- fluidPage(
+  fluidRow(
+    column(width = 8,
+           leafletOutput("map")
+    ),
+    column(width = 4,
+           selectInput("selectedDivisions", "Select divisions to display", choices = levels(swr.stations$division), multiple = TRUE),
+           selectInput("selectedColumns", "Select columns to display", choices = colnames(swr.stations), multiple = TRUE),
+           tableOutput("selectedStation")
+    )
+  )
+)
+
+# Server function for the Shiny app
+server <- function(input, output, session) {
+  output$map <- renderLeaflet({
+    divisions <- input$selectedDivisions
+    
+    if (is.null(divisions) || length(divisions) == 0) {
+      filteredStations <- swr.stations
+    } else {
+      filteredStations <- swr.stations[swr.stations$division %in% divisions, ]
+    }
+    
+    pal <- colorFactor("Set1", levels(filteredStations$division))  # Color palette based on filtered division column
+    
+    leaflet() %>%
+      addProviderTiles("CartoDB.Positron") %>%
+      fitBounds(lng1 = min(filteredStations$longitude), lat1 = min(filteredStations$latitude),
+                lng2 = max(filteredStations$longitude), lat2 = max(filteredStations$latitude)) %>%
+      addCircleMarkers(
+        data = filteredStations,
+        lat = ~latitude,
+        lng = ~longitude,
+        radius = 6,
+        color = ~pal(division),  # Assign color based on filtered division column
+        stroke = FALSE,
+        fillOpacity = 0.8,
+        label = NULL,  # Disable labels initially
+        labelOptions = labelOptions(noHide = FALSE, direction = "auto")  # Set noHide to FALSE
+      ) %>%
+      addLegend("bottomright", title = "Division", colors = pal(levels(filteredStations$division)), labels = levels(filteredStations$division))
+  })
+  
+  observeEvent(input$map_marker_mouseover, {
+    info <- input$map_marker_mouseover
+    if (!is.null(info)) {
+      selectedStation <- swr.stations[swr.stations$latitude == info$lat & swr.stations$longitude == info$lng, ]
+      output$selectedStation <- renderTable({
+        selectedColumns <- input$selectedColumns
+        selectedStation[, selectedColumns, drop = FALSE]
+      })
+    }
+  })
+  
+  output$selectedStation <- renderTable(NULL)
+}
+
+# Run the Shiny app
+shinyApp(ui, server)
